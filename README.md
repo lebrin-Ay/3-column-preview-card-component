@@ -25,8 +25,6 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop Design](./images/Screenshot.png?raw=true "Optional Title")
-![Desktop Design](/images/Desktop%20Design.png?raw=true "Optional Title")
-
 
 
 ### Links
