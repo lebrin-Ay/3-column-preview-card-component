@@ -17,7 +17,7 @@ main {
 
 .container {
     display: flex;
-    width: 62vw;
+    max-width: 62vw;
     height: 66.5vh;
     border-radius: 8px;
     overflow: hidden;
